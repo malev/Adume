@@ -1,0 +1,26 @@
+[DeviceName]
+Value=P30F4013
+[DeviceClock]
+Value=20
+[MainUnit]
+Value=
+[DeviceFlags]
+Count=2
+Value0=_HS = $FBE2
+Value1=_WDT_OFF = $7FFF
+[ProjectFiles]
+Count=1
+Value0=audme21.c
+[ObjLibFiles]
+Count=0
+[EEPROMinfo]
+isused=0
+[MemoryUsage]
+Val=50
+[SearchPath]
+Count=3
+Value0=C:\Archivos de programa\Mikroelektronika\mikroC dsPIC\Defs\
+Value1=C:\Archivos de programa\Mikroelektronika\mikroC dsPIC\Uses\
+Value2=C:\Documents and Settings\Administrador\Escritorio\Software\030309_d\Proyectos_4013\
+[IncludePath]
+Count=0
